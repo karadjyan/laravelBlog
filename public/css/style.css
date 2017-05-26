@@ -165,6 +165,20 @@ h2{
     font-size: 24px;
 }
 
+.label {
+    display: inline-block;
+    font-weight: normal;
+    line-height: 1;
+    margin-bottom: auto;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    padding: 0.25rem 0.5rem 0.25rem;
+    font-size: 15px;
+    background-color: rgb(0, 140, 186);
+    color: rgb(255, 255, 255);
+}
 
 
 
